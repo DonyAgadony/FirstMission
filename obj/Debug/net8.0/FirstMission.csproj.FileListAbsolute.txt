@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\bin\Debug\net8.0\FirstMission.exe
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\bin\Debug\net8.0\FirstMission.deps.json
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\bin\Debug\net8.0\FirstMission.runtimeconfig.json
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\bin\Debug\net8.0\FirstMission.dll
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\bin\Debug\net8.0\FirstMission.pdb
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\obj\Debug\net8.0\FirstMission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\obj\Debug\net8.0\FirstMission.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\obj\Debug\net8.0\FirstMission.AssemblyInfo.cs
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\obj\Debug\net8.0\FirstMission.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\obj\Debug\net8.0\FirstMission.dll
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\obj\Debug\net8.0\refint\FirstMission.dll
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\obj\Debug\net8.0\FirstMission.pdb
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\obj\Debug\net8.0\FirstMission.genruntimeconfig.cache
+C:\Users\User\Desktop\DanielHaMelech\Queue\FirstMission\obj\Debug\net8.0\ref\FirstMission.dll
